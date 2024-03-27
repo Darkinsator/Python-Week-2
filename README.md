@@ -30,3 +30,78 @@ Day 2:
 Anatomy of a function
 Variables and Scope
 Functions as Variables
+
+
+Day 3:
+Methods and Inheritance
+
+Day 4: 
+ERROR HANDLING FRAMEWORKS: 
+Example:
+
+x = 5
+y = "hello"
+try:
+    z = x + y
+except TypeError:
+    print("Error: cannot add an int and a str")
+
+Put your code you want to run in a try except block to implement error handling into your python program.
+
+Day 5:
+Fundamentals of threads and processes
+
+Multithreading 
+
+Multiprocessing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
